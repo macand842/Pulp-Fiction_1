@@ -20,7 +20,6 @@ body {
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
-    justify-items: center;
 }
 
 h2 {
@@ -28,4 +27,5 @@ h2 {
     margin: 0;
     font-size: 100px;
     text-transform: uppercase;
+    padding-top: 5vh;
 }
