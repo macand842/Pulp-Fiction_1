@@ -1,0 +1,17 @@
+
+
+.leg{
+        width: 150px;
+        height: 150px;
+        background-color:red;
+        animation-name: leg;
+        animation-duration: 4s;
+        position: relative;
+      }
+      
+
+      @keyframes leg{
+        from {background-color: red;left: 0;}
+        to {background-color: yellow; left: 100vw;
+        }
+    }
