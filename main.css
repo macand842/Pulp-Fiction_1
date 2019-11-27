@@ -1,0 +1,9 @@
+.front{
+    background-image: url("skriv billede til første side");
+    min-height: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+ background-position: center;
+background-size: cover;
+}
+
