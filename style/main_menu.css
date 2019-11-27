@@ -1,0 +1,16 @@
+.main_menu {
+    background-color: turquoise;
+}
+
+.main_menu ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.main_menu__item {
+    display: inline-block;
+}
+
+.main_menu__item a {
+    display: inline-block;
+}

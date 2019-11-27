@@ -1,3 +1,4 @@
-body {
-    background-color: blueviolet;
-}
+@import "main_menu.css";
+@import "general.css"
+
+
