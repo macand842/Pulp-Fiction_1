@@ -1,9 +1,32 @@
-.front{
-background-image: url("pictures/Uma.jpg");
-min-height: 100%;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center;
-background-size: cover;
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: antiquewhite;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.slide {
+    width: 100vw;
+    height: 100vh;
+}
+
+.front  {
+    background-image: url("pictures/Uma.jpg");
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    justify-items: center;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 100px;
+    text-transform: uppercase;
 }
 
