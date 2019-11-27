@@ -1,0 +1,30 @@
+.second{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.left{
+    grid-column: 1;
+    position: absolute;
+
+}
+.right{
+    overflow: auto;
+    grid-column: 2;
+    margin: 10px 200px;
+}
+
+.ytp-chrome-top.ytp-show-cards-title {
+    display: none !important;
+}
+
+.ytp-title {
+    display: none;
+}
+
+.ytp-chrome-bottom {
+    display: none;
+}
